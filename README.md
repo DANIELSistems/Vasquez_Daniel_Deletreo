@@ -1,1 +1,2 @@
-# Vasquez_Daniel_Deletreo
+# deletrealo
+pagina web para la actividad deletrealo hecha por el colegio guanenta y/o otros colegios
